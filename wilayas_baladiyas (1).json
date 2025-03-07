@@ -1,0 +1,170 @@
+{
+    "Adrar": [
+        "Adrar",
+        "Reggane",
+        "Timimoun",
+        "Zaouiet Kounta"
+    ],
+    "Chlef": [
+        "Chlef",
+        "Ténès",
+        "El Karimia",
+        "Boukadir"
+    ],
+    "Laghouat": [
+        "Laghouat",
+        "Aflou",
+        "Brida",
+        "Hassi R'Mel"
+    ],
+    "Oum El Bouaghi": [
+        "Oum El Bouaghi",
+        "Aïn Beïda",
+        "Aïn M'Lila",
+        "Sigus"
+    ],
+    "Batna": [
+        "Batna",
+        "Barika",
+        "Timgad",
+        "Aïn Touta"
+    ],
+    "Béjaïa": [
+        "Béjaïa",
+        "Akbou",
+        "Amizour",
+        "Sidi Aïch"
+    ],
+    "Biskra": [
+        "Biskra",
+        "Tolga",
+        "El Kantara",
+        "Sidi Okba"
+    ],
+    "Blida": [
+        "Blida",
+        "Boufarik",
+        "Mouzaïa",
+        "El Affroun"
+    ],
+    "Bouira": [
+        "Bouira",
+        "Lakhdaria",
+        "Sour El Ghozlane",
+        "Aïn Bessem"
+    ],
+    "Tamanrasset": [
+        "Tamanrasset",
+        "In Salah",
+        "In Guezzam",
+        "Idlès"
+    ],
+    "Tébessa": [
+        "Tébessa",
+        "El Kouif",
+        "Bir El Ater",
+        "Cheria"
+    ],
+    "Tlemcen": [
+        "Tlemcen",
+        "Maghnia",
+        "Remchi",
+        "Ghazaouet"
+    ],
+    "Algiers": [
+        "Bab El Oued",
+        "El Harrach",
+        "Bir Mourad Rais",
+        "Bordj El Kiffan"
+    ],
+    "Oran": [
+        "Oran",
+        "Aïn Turk",
+        "Es Sénia",
+        "Arzew"
+    ],
+    "Constantine": [
+        "Constantine",
+        "El Khroub",
+        "Hamma Bouziane",
+        "Zighoud Youcef"
+    ],
+    "Djelfa": [
+        "Djelfa",
+        "Messaad",
+        "Hassi Bahbah",
+        "Aïn Oussera"
+    ],
+    "Jijel": [
+        "Jijel",
+        "El Milia",
+        "Taher",
+        "Texenna"
+    ],
+    "Sétif": [
+        "Sétif",
+        "El Eulma",
+        "Aïn Oulmene",
+        "Bougaa"
+    ],
+    "Saïda": [
+        "Saïda",
+        "El Hassasna",
+        "Aïn El Hadjar",
+        "Youb"
+    ],
+    "Skikda": [
+        "Skikda",
+        "Collo",
+        "El Harrouch",
+        "Azzaba"
+    ],
+    "Annaba": [
+        "Annaba",
+        "El Bouni",
+        "Seraïdi",
+        "Berrahal"
+    ],
+    "Guelma": [
+        "Guelma",
+        "Bouchegouf",
+        "Oued Zenati",
+        "Nechmaya"
+    ],
+    "Médéa": [
+        "Médéa",
+        "Berrouaghia",
+        "Ksar El Boukhari",
+        "Béni Slimane"
+    ],
+    "Mostaganem": [
+        "Mostaganem",
+        "Aïn Tedles",
+        "Hassi Mameche",
+        "Sidi Lakhdar"
+    ],
+    "M'Sila": [
+        "M'Sila",
+        "Bousaâda",
+        "Aïn El Hadjel",
+        "Magra"
+    ],
+    "Mascara": [
+        "Mascara",
+        "Tighennif",
+        "Sig",
+        "Bouhanifia"
+    ],
+    "Ouargla": [
+        "Ouargla",
+        "Touggourt",
+        "Hassi Messaoud",
+        "El Hadjira"
+    ],
+    "Relizane": [
+        "Relizane",
+        "Oued Rhiou",
+        "Mazouna",
+        "Mendes"
+    ]
+}
